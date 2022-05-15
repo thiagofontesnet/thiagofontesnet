@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> hi, i work with infrastructure and DevOps 🚀</h1>
+  <h1> hi, i work with development python and javascript 🚀</h1>
 </div>
 
 <div align="center">
